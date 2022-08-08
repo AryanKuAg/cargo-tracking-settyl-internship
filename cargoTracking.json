@@ -1,0 +1,64 @@
+{
+  "cargoTrackingDetails": [
+    {
+      "id": "1",
+      "status": {
+        "name": "Empty Container Release to shipper",
+        "details": {
+          "text": "ONE COMPETENCE 081W",
+          "vesselSchedule": {
+            "vessel": "ONE COMPETENCE 0081 (CETT)",
+            "Lane": "PS3",
+            "fullSchedule": {
+              "total": "19",
+              "data": [
+                {
+                  "port": "NHAVA SHEVA",
+                  "terminal": "GTI (GATEWAY TERMINALS INDIA)",
+                  "arrivalTime": {
+                    "type": "Actual",
+                    "date": "2022-05-09 06:00"
+                  },
+                  "berthingTime": {
+                    "type": "Actual",
+                    "date": "2022-05-09 06:00"
+                  },
+                  "departureTime": {
+                    "type": "Actual",
+                    "date": "2022-05-09 06:00"
+                  },
+                  "terminalDetails": {
+                    "yardName": "GTI (GATEWAY TERMINALS INDIA)",
+                    "address": "Gateway Terminals India E2 Building JN Port Sheva Navi Mumbai 400707 India",
+                    "Phone No": "2227241235",
+                    "Fax No": "2227241235",
+                    "Customs No": "",
+                    "E-Mail Address": ""
+                  }
+                }
+              ]
+            }
+          }
+        }
+      },
+      "location": {
+        "name": "CHICAGO, IL, UNITED STATES",
+        "details": {
+          "text": "UP RAIL - CHICAGO JOLIET (GLOBAL 4)",
+          "placeInformation": {
+            "yardName": "GTI (GATEWAY TERMINALS INDIA)",
+            "address": "Gateway Terminals India E2 Building JN Port Sheva Navi Mumbai 400707 India",
+            "Phone No": "2227241235",
+            "Fax No": "2227241235",
+            "Customs No": "",
+            "E-Mail Address": ""
+          }
+        }
+      },
+      "event": {
+        "date": "2022-06-08 11:15",
+        "scheduleType": "Actual"
+      }
+    }
+  ]
+}
