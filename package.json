@@ -1,23 +1,16 @@
 {
-  "name": "cargo-tracking-settyl-internship",
+  "name": "carogo-tracking-with-puppetier",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.27.2",
-    "cheerio": "^1.0.0-rc.12",
-    "css-select": "^5.1.0",
-    "dom-serializer": "^2.0.0",
     "express": "^4.18.1",
-    "htmlparser2": "^8.0.1",
-    "nightmare": "^3.0.2",
-    "node-html-parser": "^5.3.3",
-    "nodejs-web-scraper": "^6.1.0"
+    "node-html-parser": "^5.4.1",
+    "puppeteer": "^16.1.0"
   }
 }
